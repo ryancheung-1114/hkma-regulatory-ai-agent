@@ -2,6 +2,8 @@
 
 ### AI-Powered Regulatory Intelligence for Hong Kong Banking
 
+<img width="2557" height="1427" alt="image" src="https://github.com/user-attachments/assets/d3051311-d89c-4838-a3ec-6a02730ca314" />
+
 ## Project Overview
 
 An AI-powered regulatory knowledge assistant designed to support the interpretation, synthesis and practical application of Hong Kong Monetary Authority (HKMA) supervisory requirements.

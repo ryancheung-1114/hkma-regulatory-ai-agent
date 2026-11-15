@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain-core
+langchain-openai
+langchain-text-splitters
+numpy
+pymupdf
+requests
+rank-bm25
